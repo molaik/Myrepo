@@ -1,8 +1,8 @@
 [
   {
-    "Name": "CCleaner",
-    "DownloadUrl": "https://example.com/ccleaner.exe",
-    "FileName": "ccleaner.exe"
+    "Name": "CpuZ",
+    "DownloadUrl": "https://download.cpuid.com/cpu-z/cpu-z_2.09-en.exe",
+    "FileName": "Cpu-Z.exe"
   },
   {
     "Name": "Win10TweakerPro",
