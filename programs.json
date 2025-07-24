@@ -5,8 +5,8 @@
     "FileName": "ccleaner.exe"
   },
   {
-    "Name": "Win10Tweaker",
-    "DownloadUrl": "https://example.com/win10tweaker.exe",
-    "FileName": "Win10Tweaker.exe"
+    "Name": "Win10TweakerPro",
+    "DownloadUrl": "https://github.com/molaik/Myrepo/raw/refs/heads/main/Win10TweakerPro.exe",
+    "FileName": "Win10TweakerPro.exe"
   }
 ]
