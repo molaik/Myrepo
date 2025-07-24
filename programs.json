@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "CCleaner",
+    "DownloadUrl": "https://example.com/ccleaner.exe",
+    "FileName": "ccleaner.exe"
+  },
+  {
+    "Name": "Win10Tweaker",
+    "DownloadUrl": "https://example.com/win10tweaker.exe",
+    "FileName": "Win10Tweaker.exe"
+  }
+]
