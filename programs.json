@@ -8,5 +8,10 @@
     "Name": "Win10TweakerPro",
     "DownloadUrl": "https://github.com/molaik/Myrepo/raw/refs/heads/main/Win10TweakerPro.exe",
     "FileName": "Win10TweakerPro.exe"
+  },
+  {
+    "Name": "N++",
+    "DownloadUrl": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.8.2/npp.8.8.2.Installer.x64.exe",
+    "FileName": "Npp.exe"
   }
 ]
